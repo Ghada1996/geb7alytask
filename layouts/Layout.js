@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Codv Blog</title>
+        <title>task</title>
         <link rel="icon" href="/favicon.ico" />
         <link
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
